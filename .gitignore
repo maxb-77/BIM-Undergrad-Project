@@ -1,6 +1,21 @@
-/BIM_MaxB2026ResearchData.xlsm
+# macOS ignore
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+PCARedo.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# File tracking
 /BIM_counts(PCARedo).xlsm
-/PCA(Redo)Loadings.png
-/PCA(Redo)Plot.png
-/PCARedo.venv
+/BIM_MaxB2026ResearchData.xlsm
 /PCA_of_Faunal_Data(ARCHIVE).png
